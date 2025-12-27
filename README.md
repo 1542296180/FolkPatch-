@@ -32,7 +32,7 @@
 ### 方法二：手动安装
 1. 将主题文件复制到：
    ```
-   /内部存储/FolkPatch/Themes/    
+   /data/user/0/me.yuki.folk/files/    
    ```
    图片需要自行寻找替换对应名字
    
